@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WPF_Adatkotes_Csuszka
+namespace WPF_DataBinding_Csuszka
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

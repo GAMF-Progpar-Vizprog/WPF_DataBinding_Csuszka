@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_Adatkotes_Csuszka
+namespace WPF_DataBinding_Csuszka
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml
